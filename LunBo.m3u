@@ -1,4 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="b站直播间",英雄联盟一台
+#EXTINF:-1 group-title="b站直播",英雄联盟一台
 http://epg.112114.xyz/bili/6
+#EXTINF:-1 group-title="斗鱼直播",英雄联盟一台
+http://epg.112114.xyz/douyu/288016
